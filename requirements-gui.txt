@@ -1,0 +1,6 @@
+# GUI 相关依赖
+PyQt6>=6.6.0
+qasync>=0.27.0
+
+# 包含原有依赖
+-r requirements.txt
